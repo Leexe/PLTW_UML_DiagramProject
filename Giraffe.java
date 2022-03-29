@@ -1,5 +1,5 @@
 /*
- * Activity 4.9.2
+ * Activity 4.9.2 
  */
 public class Giraffe extends Hooved
 {
