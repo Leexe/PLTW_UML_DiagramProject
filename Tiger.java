@@ -16,10 +16,10 @@ public class Tiger extends Feline
     }
     public void swim()
     {
-        System.out.println("The lion swims");
+        System.out.println("The tiger swims");
     }
     public void huntAlone()
     {
-        System.out.println("The lion hunts alone");
+        System.out.println("The tiger hunts alone");
     }
 }
