@@ -18,4 +18,12 @@ public class Owl extends Animal
     {
         System.out.println("The Owl eats its food.");
     }
+    public void hoot()
+  {
+    System.out.println("The owl hoots.");
+  }
+    public void speak()
+  {
+    hoot();
+  }
 }

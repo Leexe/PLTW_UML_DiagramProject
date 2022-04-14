@@ -21,4 +21,8 @@ public class Elephant extends Animal
     {
         System.out.println("The elephant looks for food");
     }
-}
+    public void speak()
+    {
+        trumpet();
+    }
+    }

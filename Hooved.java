@@ -7,7 +7,6 @@ public class Hooved extends Animal
   public Hooved()
   {
   }
-
   public Hooved (String foods, boolean nocturnal, double aveLifeSpan)
     {
         super(foods, nocturnal, aveLifeSpan);
